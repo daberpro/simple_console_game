@@ -1,1 +1,2 @@
-<h1 style="background: skblue;">Hanya ikuti aja perintah di console</h1>
+<p> game ini di jalankan dengan node js</p>
+<p> silahkan anda download node js di https://nodejs.org/en/</p>
